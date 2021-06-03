@@ -1,22 +1,25 @@
 {
-  "name": "simple-github-app",
-  "version": "1.0.0",
-  "description": "a simple app using the github api that allows a user to search for a username.",
-  "main": "script.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jordanbmowry/Simple-GitHub-App.git"
-  },
-  "author": "Jordan Mowry",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/jordanbmowry/Simple-GitHub-App/issues"
-  },
-  "homepage": "https://github.com/jordanbmowry/Simple-GitHub-App#readme",
-  "dependencies": {
-    "axios": "^0.21.1"
-  }
+	"name": "simple-github-app",
+	"version": "1.0.0",
+	"description": "a simple app using the github api that allows a user to search for a username.",
+	"main": "script.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/jordanbmowry/Simple-GitHub-App.git"
+	},
+	"author": "Jordan Mowry",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/jordanbmowry/Simple-GitHub-App/issues"
+	},
+	"homepage": "https://github.com/jordanbmowry/Simple-GitHub-App#readme",
+	"dependencies": {
+		"axios": "^0.21.1"
+	},
+	"browserslist": [
+		"since 2017-06"
+	]
 }
